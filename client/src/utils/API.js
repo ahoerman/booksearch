@@ -1,4 +1,3 @@
-require("dotenv").config({ path: __dirname + "/../"});
 import axios from "axios";
 
 // The getBooks method retrieves Books from the server
